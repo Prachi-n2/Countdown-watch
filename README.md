@@ -1,4 +1,3 @@
-# Countdown-watch
 # Countdown Timer
 
 Simple command\-line countdown timer written in Python. Prompts for a number of seconds and prints the remaining time in HH:MM:SS format until it reaches zero.
